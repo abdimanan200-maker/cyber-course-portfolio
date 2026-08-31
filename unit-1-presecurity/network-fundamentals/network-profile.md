@@ -33,7 +33,8 @@ Q15: =My machine is exposing more network-facing services than expected.
 -  Hops to example.com: 8 hops
 -  First hop: 172.22.197.194
 -  ## Listening ports
-| Port | Protocol | Interface (localhost / all) | Common use |
+|Port | Protocol | Interface (localhost / all) | Common use |
+|-----|-----------|----------------------------|------------|
 |135   |TCP       | all (0.0.0.0)               |Microsoft RPC (Remote Procedure Call)|
 |445   |TCP       |all (0.0.0.0)                |SMB (Server Message Block)/ File Sharing |
 | 5357 |TCP       | all (0.0.0.0)               | eb Services Dynamic Discovery (WS-Discovery)  |
