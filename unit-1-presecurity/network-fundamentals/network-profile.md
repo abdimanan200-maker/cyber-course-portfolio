@@ -15,7 +15,7 @@ Q14: =port 135 (RPC Endpoint Mapper): Used by windows for remote procedure calls
 Q15: =My machine is exposing more network-facing services than expected.
 
 # 
-# Network Profile - Macaanow  
+# Network Profile - Macaanow machine
 ## Identity
 - IPv4 address: 172.22.197.27 
 - Subnet mask / CIDR: 255.255.255.0 (/24)
