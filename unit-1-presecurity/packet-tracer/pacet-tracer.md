@@ -4,3 +4,7 @@ there are 2 routers. the second one is located in internet server
 i think the cabling of this whole network would be hard to my nderstanding.
 
 tehtävä 3d i used delete command to delete the file at the last task 👍 
+
+
+packetracer 2c
+part 1 d
