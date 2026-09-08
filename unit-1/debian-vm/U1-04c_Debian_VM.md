@@ -36,4 +36,8 @@ screenshots
 <img width="955" height="586" alt="Screenshot 2026-08-31 123829" src="https://github.com/user-attachments/assets/a0948876-caea-49ab-a863-70dc30b98a93" />
 <img width="1273" height="902" alt="Screenshot 2026-08-31 124223" src="https://github.com/user-attachments/assets/8a3bb531-13c0-4a16-ac24-c6e007cc3c57" />
 <img width="1272" height="893" alt="Screenshot 2026-08-31 124537" src="https://github.com/user-attachments/assets/8e0ad728-fe8d-4940-b561-5cfac4e39890" />
+<img width="1917" height="1015" alt="Screenshot 2026-09-08 101638" src="https://github.com/user-attachments/assets/79d8fc2f-215f-4222-9907-69833a1731f7" />
+<img width="1916" height="1015" alt="Screenshot 2026-09-08 101811" src="https://github.com/user-attachments/assets/08196368-feb9-4c55-9e2c-2ab3e69bdb95" />
+
+
 
